@@ -31,7 +31,7 @@ const Hero = () => {
       <div className="relative z-10 container mx-auto px-6 py-12 md:py-20">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Left side - Text */}
-          <div className="space-y-6">
+          <div className="space-y-6 -mt-8">
             <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-black leading-none">
               AZINHACK
               <span className="block text-white [-webkit-text-stroke:3px_black]">2025</span>
@@ -47,7 +47,7 @@ const Hero = () => {
           {/* Right side - Decorative shapes */}
           <div className="relative h-96 md:h-[500px]">
             {/* Smiley faces inspired by reference */}
-            <div className="absolute top-0 left-0 w-48 h-48 md:w-64 md:h-64 bg-lime border-4 border-black rounded-full flex items-center justify-center animate-float">
+            <div className="absolute top-10 left-10 w-48 h-48 md:w-64 md:h-64 bg-lime border-4 border-black rounded-full flex items-center justify-center animate-float">
               <div className="space-y-4">
                 <div className="flex gap-8 justify-center">
                   <div className="w-8 h-12 bg-black rounded-full"></div>
