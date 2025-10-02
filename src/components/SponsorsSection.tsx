@@ -37,18 +37,6 @@ const SponsorsSection = () => {
           ))}
         </div>
         
-        {/* Call To Action */}
-        <div className="text-center mt-20">
-          <p className="text-xl font-bold text-white mb-6">
-            Interested in sponsoring Azinhack 2025?
-          </p>
-          <a 
-            href="mailto:sponsors@azinhack.com"
-            className="inline-block bg-yellow text-black font-black text-xl px-10 py-5 border-4 border-black shadow-bold rounded-xl hover:bg-cyan hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all"
-          >
-            BECOME A SPONSOR
-          </a>
-        </div>
       </div>
     </section>
   );
