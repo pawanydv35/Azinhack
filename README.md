@@ -1,3 +1,7 @@
+live link:  www.azinhack.xyz
+
+
+
 # 🚀 Azinhack 2025 – 24 Hour Hackathon  
 
 Azinhack 2025 is a **24-hour hackathon** organized by the **Intel oneAPI Student Club (IoSC)** in collaboration with the **Entrepreneurship Development Cell (EDC)** at **Guru Gobind Singh Indraprastha University, East Delhi Campus (USAR, Surajmal Vihar)**.  
